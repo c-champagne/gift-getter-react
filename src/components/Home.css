@@ -1,0 +1,19 @@
+.vRibbon {
+    background-color: red;
+  }
+
+.hRibbon {
+    background-color: red;
+    padding: 30px;
+}
+
+#logo {
+    font-family: 'Pacifico', sans-serif;
+    color: red;
+    padding-bottom: 5px;
+}
+
+.logoBox {
+    height: auto;
+    text-align: center;
+}
